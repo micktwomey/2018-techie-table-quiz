@@ -55,7 +55,7 @@ General Data Protection Regulation
 ## Question 7
 Which of the following is not a Linux distribution?
 
-Is it Ubuntu, Mint, SUSE, Elementar or Haiku?
+Is it Ubuntu, Mint, SUSE, Elementary or Haiku?
 
 
 Haiku (it's a BeOS clone)

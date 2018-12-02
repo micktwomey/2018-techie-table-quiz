@@ -43,7 +43,7 @@ What does GDPR stand for?
 ## Question 7
 Which of the following is not a Linux distribution?
 
-Is it Ubuntu, Mint, SUSE, Elementar or Haiku?
+Is it Ubuntu, Mint, SUSE, Elementary or Haiku?
 
 
 ---

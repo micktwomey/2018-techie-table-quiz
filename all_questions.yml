@@ -59,15 +59,55 @@ rounds:
       - question: |
           Which of the following is not a Linux distribution?
 
-          Is it Ubuntu, Mint, SUSE, Elementar or Haiku?
+          Is it Ubuntu, Mint, SUSE, Elementary or Haiku?
         answer: Haiku (it's a BeOS clone)
       - question: How many characters were originally allowed in a ‘Tweet’ when Twitter first launched in 2006?
         answer: 140
       - question: BINAC was an early electronic computer, launched in 1949. What does BINAC stand for?
         answer:  Binary Automatic Computer
   - title: Round 3
-    questions: []
+    questions:
+      - question: Black Panther was one of the biggest grossing films of 2018. In it the character T'Challa becomes the Black Panther. Can you name his genius sister?
+        answer: Shuri (played by Letitia Wright)
+      - question: |
+          Fortnite is a hugely popular survival game. How many concurrent players were there reported in November? (i.e. playing at the same time)
+
+          Was it 2.4 million, 7.5 million, 8.3 million, 10.5 million or 12.3 million?
+        answer: 8.3 million
+      - question: Who plays the current Doctor in Doctor Who?
+        answer: Jodie Whittaker
   - title: Round 4
-    questions: []
+    questions:
+      - question: In February SpaceX successfully conducts its maiden flight of its most powerful rocket to date. What is it called?
+        answer: Falcon Heavy
+      - question: Qantas launched their non-stop flight from London to Perth. How long does it take?
+        answer: 17 hours
+      - question: |
+          The British sci-fi comedy Red Dwarf turned 30 this year.
+
+          Its early characters featured a human, a hologram, an android and a what?
+        answer: A humanoid evolved from a cat. Known as "Cat".
+      - question: |
+          Can you finish this quote from Stan Lee?
+          > With great power comes great
+        answer: responsibility
+      - question: In May 2018 NASA launched their InSight mission. In November it landed on which planet?
+        answer: Mars
+      - question: |
+          Who said this?
+
+          > Remember to look up at the stars and not down at your feet.
+        answer: Stephen Hawking
+      - question: In the Eurovision Song Contest 2018 Netta Barzilai won with which song?
+        answer: Toy
+      - question: In a dramatic rescue a young football team and their coach were rescued from Tham Luang Nang Non cave in Thailand. How many people total were rescued?
+        answer: 12 boys and their coach (13)
+      - question: Which company became the first company to achieve a market capitalization of $1 trillion in August?
+        answer: Apple
+      - question: What ground breaking Sci-Fi film turned 50 in 2018?
+        answer: 2001
+
   - title: Tie Breaker
-    questions: []
+    questions:
+      - question: The Hong Kong–Zhuhai–Macau Bridge was opened. How long is it total to the nearest km (all 3 sections)?
+        answer: 55 km
