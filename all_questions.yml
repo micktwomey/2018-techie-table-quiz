@@ -1,0 +1,73 @@
+rounds:
+  - title: Round 1
+    questions:
+      - question: |
+          What is the name of a Director Of Engineering in Google who in 2005/2006 wrote a book predicting that machine intelligence would be infinitely more powerful than human intelligence and that the two will eventually merge?
+        answer: Ray Kurzweil
+      - question: |
+          In the movie "Gattaca", a man named Vincent is born with a high probability of having a heart condition, but dreams of becoming an astronaut. To do that, he has to impersonate someone else, a man named Jerome Morrow.
+
+          Was it 50%, 75%, 99% or 100%?
+        answer: 99%
+      - question: |
+          iRobot - Isaac Asimov wrote his groundbreaking more than 60 years ago. In it he postulates the laws of robotics. Can you name them? (1pt each)?
+        answer: |
+          1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+          2. A robot must obey the orders given to it by human beings, except where such orders would conflict with the First Law.
+          3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.
+      - question: Many of us owe our livelihoods to the expressing of logic through various programming languages. But who was the first person to attempt a systematic analysis of logical syntax of nouns and verbs - or put simply - who was the first formal logician?
+        answer: Aristotle
+      - question: |
+          Who first said "I think, therefore I am!"? (Clue: They may have said it in a language other than English)
+        answer: Descartes
+      - question: |
+          In the movie The Matrix, who created the Matrix?
+
+          Was it Agent Smith, The Oracle, The Architect or The Keymaker?
+        answer: The Architect
+      - question: |
+          To whom is the following famous quote first attributed:
+
+          > If I have seen further than others, it is by standing upon the shoulders of giants.
+        answer: Issac Newton
+      - question: If the ‘freedom to redistribute copies’ of a program is one of the 4 freedoms of Free Software as defined by the GNU foundation, what are 2 of the other 3?
+        answer: |
+          * The freedom to run the program as you wish, for any purpose. AKA run program for any purpose.
+          * The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this. AKA: study/change/access source code.
+          * The freedom to distribute copies of your modified versions to others. AKA: distribute modified version
+      - question: You may have heard of the Turing test. It inspired the Erbert test. But what is the criteria that a machine must pass in the Erbert test?
+        answer: A computer-based synthesised voice has sufficient skill in terms of intonations, inflections, timing and so forth, to make people laugh.
+      - question: |
+          What is most extreme existential event described in Eric Schlosser's 2013 book Command & Control?
+
+          Was it Military handling of nuclear material, NASA’s handling of Earth-asteroid collision, International handling of climate change, Medical Institutions’ handling of remaining samples of Smallpox vaccine or Brexit?
+        answer: Military handling of nuclear material
+  - title: Round 2
+    questions:
+      - question: Aircraft flight recorders are often known by the misnomer ‘black box’, even though they are actually which colour?
+        answer: Orange
+      - question: If a URL ends with .mx, in which country would you expect it to be based?
+        answer: Mexico
+      - question: What does ‘SD’ stand for in the terms ‘SD card’ and ‘micro SD card’?
+        answer: Secure Digital
+      - question: What was the name of the world’s first artificial satellite?
+        answer: Sputnik 1
+      - question: Which passenger airship caught fire in 1937, killing 13 passengers and 22 of the crew?
+        answer: Hindenburg
+      - question: What does GDPR stand for?
+        answer: General Data Protection Regulation
+      - question: |
+          Which of the following is not a Linux distribution?
+
+          Is it Ubuntu, Mint, SUSE, Elementar or Haiku?
+        answer: Haiku (it's a BeOS clone)
+      - question: How many characters were originally allowed in a ‘Tweet’ when Twitter first launched in 2006?
+        answer: 140
+      - question: BINAC was an early electronic computer, launched in 1949. What does BINAC stand for?
+        answer:  Binary Automatic Computer
+  - title: Round 3
+    questions: []
+  - title: Round 4
+    questions: []
+  - title: Tie Breaker
+    questions: []
