@@ -79,6 +79,14 @@ Binary Automatic Computer
 ---
 
 
+## Question 10
+In January 2018 two exploits of modern CPU were published. What was were they called?
+
+Meltdown and Spectre
+
+---
+
+
 # End of Answers!
 
 ## Pass the Answer Sheets to the Quizmasters

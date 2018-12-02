@@ -61,6 +61,12 @@ BINAC was an early electronic computer, launched in 1949. What does BINAC stand 
 ---
 
 
+## Question 10
+In January 2018 two exploits of modern CPU were published. What was were they called?
+
+---
+
+
 # End of Round!
 
 ## Pass Answer Sheets to the Next Team

@@ -21,7 +21,7 @@ Was it 50%, 75%, 99% or 100%?
 
 
 ## Question 3
-iRobot - Isaac Asimov wrote his groundbreaking more than 60 years ago. In it he postulates the laws of robotics. Can you name them? (1pt each)?
+I, Robot - Isaac Asimov wrote his groundbreaking more than 60 years ago. In it he postulates the laws of robotics. Can you name them? (1pt each)?
 
 
 ---

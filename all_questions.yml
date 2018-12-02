@@ -10,7 +10,7 @@ rounds:
           Was it 50%, 75%, 99% or 100%?
         answer: 99%
       - question: |
-          iRobot - Isaac Asimov wrote his groundbreaking more than 60 years ago. In it he postulates the laws of robotics. Can you name them? (1pt each)?
+          I, Robot - Isaac Asimov wrote his groundbreaking more than 60 years ago. In it he postulates the laws of robotics. Can you name them? (1pt each)?
         answer: |
           1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
           2. A robot must obey the orders given to it by human beings, except where such orders would conflict with the First Law.
@@ -65,17 +65,50 @@ rounds:
         answer: 140
       - question: BINAC was an early electronic computer, launched in 1949. What does BINAC stand for?
         answer:  Binary Automatic Computer
+      - question: In January 2018 two exploits of modern CPU were published. What was were they called?
+        answer: Meltdown and Spectre
   - title: Round 3
     questions:
-      - question: Black Panther was one of the biggest grossing films of 2018. In it the character T'Challa becomes the Black Panther. Can you name his genius sister?
-        answer: Shuri (played by Letitia Wright)
+      - question: |
+          In the song Baby Shark how many sharks are there?
+
+          Bonus: How many times does "doo" appear?
+
+          (At the time of writing it has 2,005,610,665 views.)
+        answer: |
+          Baby, Mommy, Daddy, Grandma and Grandpa = 5 sharks
+
+          There are 162 occurrences of "doo".
+      - question: Black Panther was one of the biggest grossing films of 2018. In it the character T'Challa (Chadwick Boseman) is the Black Panther. Can you name his genius sister?
+        answer: Shuri (Letitia Wright)
       - question: |
           Fortnite is a hugely popular survival game. How many concurrent players were there reported in November? (i.e. playing at the same time)
 
-          Was it 2.4 million, 7.5 million, 8.3 million, 10.5 million or 12.3 million?
+          Was it 8.3 million, 10.5 million or 12.3 million?
         answer: 8.3 million
       - question: Who plays the current Doctor in Doctor Who?
         answer: Jodie Whittaker
+      - question: |
+          Marvel Studios has sucessfully produced many films set in the MCU since their first, Iron Man (2008). As of today how many MCU films are there?
+
+          Is it 18, 19 or 20?
+        answer: 20
+      - question: In the Star Trek series Discovery, the main protagonist Michael Burnham is who's foster sister?
+        answer: Spock
+      - question: In the TV Series "The Good Place" a particular dessert is very popular in the after life. Can you name it?
+        answer: Frozen Yogurt
+      - question: |
+          In the film "Solo: A Star Wars Story" a younger Lando Calrissian is portrayed by which actor?
+        answer: Donald Glover
+      - question: |
+
+          What is the name of the virtual reality world in Ready Player One?
+
+          Is it BLUR, VERVE or OASIS?
+
+        answer: OASIS
+      - question: What is the name of Ralph's friend and the main racer character from the "Sugar Rush" game in the Wreck-It Ralph films?
+        answer: Vanellope von Schweetz
   - title: Round 4
     questions:
       - question: In February SpaceX successfully conducts its maiden flight of its most powerful rocket to date. What is it called?
@@ -100,7 +133,7 @@ rounds:
         answer: Stephen Hawking
       - question: In the Eurovision Song Contest 2018 Netta Barzilai won with which song?
         answer: Toy
-      - question: In a dramatic rescue a young football team and their coach were rescued from Tham Luang Nang Non cave in Thailand. How many people total were rescued?
+      - question: In July there was a dramatic rescue of a young football team and their coach from the Tham Luang Nang Non cave in Thailand. How many people total were rescued?
         answer: 12 boys and their coach (13)
       - question: Which company became the first company to achieve a market capitalization of $1 trillion in August?
         answer: Apple
@@ -111,3 +144,16 @@ rounds:
     questions:
       - question: The Hong Kong–Zhuhai–Macau Bridge was opened. How long is it total to the nearest km (all 3 sections)?
         answer: 55 km
+      - question: At the end of the remade Battlestar Galactica series, how many humans were left who made it to Earth? Nearest number wins...
+        answer: 39,406
+
+  - title: Unused
+    questions:
+      - question: |
+          Which major US paper issued the following correction?
+
+          > Correction: March 7, 2018
+          > Because of an editing error involving a satirical text-swapping web browser extension, an earlier version of this article misquoted a passage from an article by the Times reporter Jim Tankersley. The sentence referred to America’s narrowing trade deficit during “the Great Recession,” not during “the Time of Shedding and Cold Rocks.” (Pro tip: Disable your “Millennials to Snake People” extension when copying and pasting.)
+        answer: The New York Times
+      - question: Which programming language announced version 1.0 in August 2018?
+        answer: Julia

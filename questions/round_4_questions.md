@@ -55,7 +55,7 @@ In the Eurovision Song Contest 2018 Netta Barzilai won with which song?
 
 
 ## Question 8
-In a dramatic rescue a young football team and their coach were rescued from Tham Luang Nang Non cave in Thailand. How many people total were rescued?
+In July there was a dramatic rescue of a young football team and their coach from the Tham Luang Nang Non cave in Thailand. How many people total were rescued?
 
 ---
 
