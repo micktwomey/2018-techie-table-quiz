@@ -20,6 +20,15 @@ Which programming language announced version 1.0 in August 2018?
 ---
 
 
+## Question 3
+To whom is the following famous quote first attributed:
+
+> If I have seen further than others, it is by standing upon the shoulders of giants.
+
+
+---
+
+
 # End of Round!
 
 ## Pass Answer Sheets to the Next Team

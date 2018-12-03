@@ -50,9 +50,11 @@ Was it Agent Smith, The Oracle, The Architect or The Keymaker?
 
 
 ## Question 7
-To whom is the following famous quote first attributed:
+# 🚨 Sports Question Alert 🚨
 
-> If I have seen further than others, it is by standing upon the shoulders of giants.
+In the 2004 movie "Dodgeball: A True Underdog Story", fill in the blank here for the 5D's of Dodgeball:
+
+> Dodge, duck, _______, dive and dodge
 
 
 ---

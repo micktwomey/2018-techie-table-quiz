@@ -26,10 +26,13 @@ rounds:
           Was it Agent Smith, The Oracle, The Architect or The Keymaker?
         answer: The Architect
       - question: |
-          To whom is the following famous quote first attributed:
+          # 🚨 Sports Question Alert 🚨
 
-          > If I have seen further than others, it is by standing upon the shoulders of giants.
-        answer: Issac Newton
+          In the 2004 movie "Dodgeball: A True Underdog Story", fill in the blank here for the 5D's of Dodgeball:
+
+          > Dodge, duck, _______, dive and dodge
+
+        answer: dip
       - question: If the ‘freedom to redistribute copies’ of a program is one of the 4 freedoms of Free Software as defined by the GNU foundation, what are 2 of the other 3?
         answer: |
           * The freedom to run the program as you wish, for any purpose. AKA run program for any purpose.
@@ -221,3 +224,8 @@ rounds:
         answer: The New York Times
       - question: Which programming language announced version 1.0 in August 2018?
         answer: Julia
+      - question: |
+          To whom is the following famous quote first attributed:
+
+          > If I have seen further than others, it is by standing upon the shoulders of giants.
+        answer: Issac Newton

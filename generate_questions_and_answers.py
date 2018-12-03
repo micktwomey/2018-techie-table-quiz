@@ -2,10 +2,17 @@ from dataclasses import dataclass
 import collections
 import pathlib
 from pprint import pprint
+import re
 import typing
 
 import click
 import yaml
+
+# Hack to allow emoji in yaml files
+# From https://stackoverflow.com/questions/44875403/loading-special-characters-with-pyyaml
+yaml.reader.Reader.NON_PRINTABLE = re.compile(
+    u"[^\x09\x0A\x0D\x20-\x7E\x85\xA0-\uD7FF\uE000-\uFFFD\U00010000-\U0010FFFF]"
+)
 
 
 @dataclass
@@ -23,6 +30,7 @@ class Round:
     def slug(self):
         return self.title.lower().replace(" ", "_")
 
+
 @dataclass
 class Quiz:
     rounds: typing.List[Round]
@@ -39,7 +47,12 @@ def parse_round(round):
 
 
 def parse_question(question):
-    return Question(question=question["question"], answer=question["answer"])
+    try:
+        return Question(question=question["question"], answer=question["answer"])
+    except Exception:
+        pprint(question)
+        raise
+
 
 ROUND_QUESTIONS_TEMPLATE = """theme: Huerta, 2
 
@@ -81,38 +94,51 @@ ROUND_ANSWERS_TEMPLATE = """theme: Huerta, 2
 ## Pass the Answer Sheets to the Quizmasters
 """
 
+
 def render_questions(questions):
     output = []
     for i, question in enumerate(questions):
-        output.append(QUESTION_TEMPLATE.format(number=i+1, question=question.question))
+        output.append(
+            QUESTION_TEMPLATE.format(number=i + 1, question=question.question)
+        )
     return "\n".join(output)
+
 
 def render_answers(questions):
     output = []
     for i, question in enumerate(questions):
-        output.append(ANSWER_TEMPLATE.format(number=i+1, question=question.question, answer=question.answer))
+        output.append(
+            ANSWER_TEMPLATE.format(
+                number=i + 1, question=question.question, answer=question.answer
+            )
+        )
     return "\n".join(output)
 
 
-def render_quiz(quiz: Quiz, questions_folder: pathlib.Path, answers_folder: pathlib.Path):
+def render_quiz(
+    quiz: Quiz, questions_folder: pathlib.Path, answers_folder: pathlib.Path
+):
     questions_folder.mkdir(parents=True, exist_ok=True)
     answers_folder.mkdir(parents=True, exist_ok=True)
     for round in quiz.rounds:
         questions = questions_folder / (round.slug + "_questions.md")
 
         with questions.open(mode="w") as fp:
-            fp.write(ROUND_QUESTIONS_TEMPLATE.format(
-                title=round.title,
-                questions=render_questions(round.questions)
-            ))
+            fp.write(
+                ROUND_QUESTIONS_TEMPLATE.format(
+                    title=round.title, questions=render_questions(round.questions)
+                )
+            )
 
         answers = answers_folder / (round.slug + "_answers.md")
 
         with answers.open(mode="w") as fp:
-            fp.write(ROUND_ANSWERS_TEMPLATE.format(
-                title=round.title,
-                answers=render_answers(round.questions)
-            ))
+            fp.write(
+                ROUND_ANSWERS_TEMPLATE.format(
+                    title=round.title, answers=render_answers(round.questions)
+                )
+            )
+
 
 @click.command()
 @click.option(
@@ -129,6 +155,7 @@ def main(answers_folder, questions_folder, questions):
     quiz = parse_quiz(parsed)
 
     render_quiz(quiz, pathlib.Path(questions_folder), pathlib.Path(answers_folder))
+
 
 if __name__ == "__main__":
     main()  # pylint: disable=E1120
