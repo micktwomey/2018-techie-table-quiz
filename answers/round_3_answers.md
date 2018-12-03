@@ -16,6 +16,8 @@ Baby, Mommy, Daddy, Grandma and Grandpa = 5 sharks
 
 There are 162 occurrences of "doo".
 
+![left](baby_shark.png)
+
 
 ---
 
@@ -24,6 +26,9 @@ There are 162 occurrences of "doo".
 Black Panther was one of the biggest grossing films of 2018. In it the character T'Challa (Chadwick Boseman) is the Black Panther. Can you name his genius sister?
 
 Shuri (Letitia Wright)
+
+![right](shuri.jpg)
+
 
 ---
 
@@ -36,6 +41,9 @@ Was it 8.3 million, 10.5 million or 12.3 million?
 
 8.3 million
 
+![left](fortnite.png)
+
+
 ---
 
 
@@ -43,6 +51,9 @@ Was it 8.3 million, 10.5 million or 12.3 million?
 Who plays the current Doctor in Doctor Who?
 
 Jodie Whittaker
+
+![left](doctorwho.jpg)
+
 
 ---
 
@@ -55,6 +66,9 @@ Is it 18, 19 or 20?
 
 20
 
+![right](marvelstudios.jpg)
+
+
 ---
 
 
@@ -62,6 +76,9 @@ Is it 18, 19 or 20?
 In the Star Trek series Discovery, the main protagonist Michael Burnham is who's foster sister?
 
 Spock
+
+![right,fit](startrek.jpg)
+
 
 ---
 
@@ -71,6 +88,9 @@ In the TV Series "The Good Place" a particular dessert is very popular in the af
 
 Frozen Yogurt
 
+![right](thegoodplace.jpg)
+
+
 ---
 
 
@@ -79,6 +99,9 @@ In the film "Solo: A Star Wars Story" a younger Lando Calrissian is portrayed by
 
 
 Donald Glover
+
+![left](lando.jpg)
+
 
 ---
 
@@ -92,6 +115,9 @@ Is it BLUR, VERVE or OASIS?
 
 OASIS
 
+![left](readyplayerone.jpg)
+
+
 ---
 
 
@@ -99,6 +125,9 @@ OASIS
 What is the name of Ralph's friend and the main racer character from the "Sugar Rush" game in the Wreck-It Ralph films?
 
 Vanellope von Schweetz
+
+![right,fit](vanellope.png)
+
 
 ---
 

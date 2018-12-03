@@ -9,6 +9,9 @@ In February SpaceX successfully conducts its maiden flight of its most powerful 
 
 Falcon Heavy
 
+![left](falconheavy.jpg)
+
+
 ---
 
 
@@ -16,6 +19,9 @@ Falcon Heavy
 Qantas launched their non-stop flight from London to Perth. How long does it take?
 
 17 hours
+
+![](qantas.jpg)
+
 
 ---
 
@@ -28,6 +34,9 @@ Its early characters featured a human, a hologram, an android and a what?
 
 A humanoid evolved from a cat. Known as "Cat".
 
+![left](cat.jpg)
+
+
 ---
 
 
@@ -38,6 +47,9 @@ Can you finish this quote from Stan Lee?
 
 responsibility
 
+![left](stanlee.jpg)
+
+
 ---
 
 
@@ -45,6 +57,9 @@ responsibility
 In May 2018 NASA launched their InSight mission. In November it landed on which planet?
 
 Mars
+
+![right](insight.jpg)
+
 
 ---
 
@@ -57,6 +72,9 @@ Who said this?
 
 Stephen Hawking
 
+![right](stephenhawking.jpg)
+
+
 ---
 
 
@@ -64,6 +82,9 @@ Stephen Hawking
 In the Eurovision Song Contest 2018 Netta Barzilai won with which song?
 
 Toy
+
+![left](toy.jpg)
+
 
 ---
 
@@ -73,6 +94,9 @@ In July there was a dramatic rescue of a young football team and their coach fro
 
 12 boys and their coach (13)
 
+![right](cave.jpg)
+
+
 ---
 
 
@@ -81,6 +105,9 @@ Which company became the first company to achieve a market capitalization of $1 
 
 Apple
 
+![left](apple.jpg)
+
+
 ---
 
 
@@ -88,6 +115,11 @@ Apple
 What ground breaking Sci-Fi film turned 50 in 2018?
 
 2001
+
+(Barbarella also acceptable answer.)
+
+![right](2001.jpg)
+
 
 ---
 

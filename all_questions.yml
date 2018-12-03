@@ -79,66 +79,130 @@ rounds:
           Baby, Mommy, Daddy, Grandma and Grandpa = 5 sharks
 
           There are 162 occurrences of "doo".
+
+          ![left](baby_shark.png)
       - question: Black Panther was one of the biggest grossing films of 2018. In it the character T'Challa (Chadwick Boseman) is the Black Panther. Can you name his genius sister?
-        answer: Shuri (Letitia Wright)
+        answer: |
+          Shuri (Letitia Wright)
+
+          ![right](shuri.jpg)
       - question: |
           Fortnite is a hugely popular survival game. How many concurrent players were there reported in November? (i.e. playing at the same time)
 
           Was it 8.3 million, 10.5 million or 12.3 million?
-        answer: 8.3 million
+        answer: |
+          8.3 million
+
+          ![left](fortnite.png)
       - question: Who plays the current Doctor in Doctor Who?
-        answer: Jodie Whittaker
+        answer: |
+          Jodie Whittaker
+
+          ![left](doctorwho.jpg)
       - question: |
           Marvel Studios has sucessfully produced many films set in the MCU since their first, Iron Man (2008). As of today how many MCU films are there?
 
           Is it 18, 19 or 20?
-        answer: 20
+        answer: |
+          20
+
+          ![right](marvelstudios.jpg)
+
       - question: In the Star Trek series Discovery, the main protagonist Michael Burnham is who's foster sister?
-        answer: Spock
+        answer: |
+          Spock
+
+          ![right,fit](startrek.jpg)
       - question: In the TV Series "The Good Place" a particular dessert is very popular in the after life. Can you name it?
-        answer: Frozen Yogurt
+        answer: |
+          Frozen Yogurt
+
+          ![right](thegoodplace.jpg)
       - question: |
           In the film "Solo: A Star Wars Story" a younger Lando Calrissian is portrayed by which actor?
-        answer: Donald Glover
+        answer: |
+          Donald Glover
+
+          ![left](lando.jpg)
       - question: |
 
           What is the name of the virtual reality world in Ready Player One?
 
           Is it BLUR, VERVE or OASIS?
 
-        answer: OASIS
+        answer: |
+          OASIS
+
+          ![left](readyplayerone.jpg)
       - question: What is the name of Ralph's friend and the main racer character from the "Sugar Rush" game in the Wreck-It Ralph films?
-        answer: Vanellope von Schweetz
+        answer: |
+          Vanellope von Schweetz
+
+          ![right,fit](vanellope.png)
+
   - title: Round 4
     questions:
       - question: In February SpaceX successfully conducts its maiden flight of its most powerful rocket to date. What is it called?
-        answer: Falcon Heavy
+        answer: |
+          Falcon Heavy
+
+          ![left](falconheavy.jpg)
       - question: Qantas launched their non-stop flight from London to Perth. How long does it take?
-        answer: 17 hours
+        answer: |
+          17 hours
+
+          ![](qantas.jpg)
       - question: |
           The British sci-fi comedy Red Dwarf turned 30 this year.
 
           Its early characters featured a human, a hologram, an android and a what?
-        answer: A humanoid evolved from a cat. Known as "Cat".
+        answer: |
+          A humanoid evolved from a cat. Known as "Cat".
+
+          ![left](cat.jpg)
       - question: |
           Can you finish this quote from Stan Lee?
           > With great power comes great
-        answer: responsibility
+        answer: |
+          responsibility
+
+          ![left](stanlee.jpg)
       - question: In May 2018 NASA launched their InSight mission. In November it landed on which planet?
-        answer: Mars
+        answer: |
+          Mars
+
+          ![right](insight.jpg)
       - question: |
           Who said this?
 
           > Remember to look up at the stars and not down at your feet.
-        answer: Stephen Hawking
+        answer: |
+          Stephen Hawking
+
+          ![right](stephenhawking.jpg)
+
       - question: In the Eurovision Song Contest 2018 Netta Barzilai won with which song?
-        answer: Toy
+        answer: |
+          Toy
+
+          ![left](toy.jpg)
       - question: In July there was a dramatic rescue of a young football team and their coach from the Tham Luang Nang Non cave in Thailand. How many people total were rescued?
-        answer: 12 boys and their coach (13)
+        answer: |
+          12 boys and their coach (13)
+
+          ![right](cave.jpg)
       - question: Which company became the first company to achieve a market capitalization of $1 trillion in August?
-        answer: Apple
+        answer: |
+          Apple
+
+          ![left](apple.jpg)
       - question: What ground breaking Sci-Fi film turned 50 in 2018?
-        answer: 2001
+        answer: |
+          2001
+
+          (Barbarella also acceptable answer.)
+
+          ![right](2001.jpg)
 
   - title: Tie Breaker
     questions:
